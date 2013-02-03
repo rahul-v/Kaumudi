@@ -758,7 +758,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1100 "" "+DRUNVw0uDUENJg0/" "" "" "+DRUNVw0uDUENJg0/" "" "" "" "" "" "" "" "" "" "" "" "+DRUNVw0uDUENJg0/" 
 LangName: 1033 "" "" "Regular" "" "" "Version 1.20 January 29, 2013,  Designed & Developed By Rahul Vijay, Kerala Kaumudi. +-91-9946429992, rahulv@kimo.com" "" "" "Rahul V" "Rahul V; email rahulv@kimo.com" "Kaumudi font is the name of a digital Clear Type font suitable for Tablet, Smart-phone, LED/LCD display.  It has been designed in Open Type Format with Unicode standards 6.2" "" "www.neflone.com" " Kaumudi font Licensed under the GNU GENERAL PUBLIC LICENSE Version 3" "" "" "" "" "" "+DSQNLg04DUsNLgAA +DRwNTQ0vDUsNJA0/DXwA +DRcNLg0v" "" "Kaumudi" "Regular" 
-GaspTable: 3 8 3 16 1 65535 3
+GaspTable: 3 8 3 16 1 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -13165,6 +13165,7 @@ Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ml_half_ka ml_rr_rra
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ml_ka ml_chand ml_rr_rra
 Ligature2: "'akhn' Akhand lookup 1 subtable" ml_ka ml_chand ml_rr_rra
+Ligature2: "'akhn' Akhand lookup 1 subtable" ml_ka ml_chand ml_rra ml_chand ml_rra
 EndChar
 
 StartChar: ml_g_la
@@ -18255,9 +18256,10 @@ Refer: 176 3384 N 1 0 0 1 -3 0 0
 Refer: 513 -1 N 1 0 0 1 375 0 0
 Refer: 513 -1 N 1 0 0 1 1415 1 0
 Validated: 1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ml_half_sa ml_rr_rra
-Ligature2: "'akhn' Akhand lookup 1 subtable" ml_half_sa ml_rr_rra
+Ligature2: "'akhn' Akhand lookup 1 subtable" ml_sa ml_chand ml_rra ml_chand ml_rra
 Ligature2: "'akhn' Akhand lookup 1 subtable" ml_sa ml_chand ml_rr_rra
+Ligature2: "'akhn' Akhand lookup 1 subtable" ml_half_sa ml_rr_rra
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ml_half_sa ml_rr_rra
 EndChar
 
 StartChar: ml_h_la
