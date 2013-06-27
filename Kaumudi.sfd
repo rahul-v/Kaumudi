@@ -4,7 +4,7 @@ FullName: Kaumudi
 FamilyName: Kaumudi
 Weight: Book
 Copyright: Copyright(C) 2012 Rahul.V, All rights reserved.Mob:+91-99464 29992, 88910 29992. Email: rahul@kaumudi.com, rahulv@kimo.com; \nNCL_Kaumudi font Licensed under the GNU GENERAL PUBLIC LICENSE Version 3. As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. \nSpecial Thanks To: Jijo George & Amjith Sher.
-Version: 1.021 february 07, 2013,  Designed & Developed By Rahul Vijay, Kerala Kaumudi. +91-9946429992, rahulv@kimo.com
+Version: 1.022 June 27, 2013,  Designed & Developed By Rahul Vijay, Kerala Kaumudi. +91-9946429992, rahulv@kimo.com
 ItalicAngle: 0
 UnderlinePosition: -204
 UnderlineWidth: 70
@@ -14,7 +14,7 @@ sfntRevision: 0x000105a2
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 367 8562 30767]
+XUID: [1021 367 8562 15649]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
@@ -145735,17 +145735,16 @@ ShortTable: maxp 16
   3
   2
 EndShort
-LangName: 1033 "" "" "Regular" "Rahul : Kaumudi : 7-2-2013" "" "Version 1.021 february 07, 2013,  Designed & Developed By Rahul Vijay, Kerala Kaumudi. +-91-9946429992, rahulv@kimo.com" "" "" "Rahul V" "Rahul V; email rahulv@kimo.com" "Kaumudi font is the name of a digital Clear Type font suitable for Tablet, Smart-phone, LED/LCD display.  It has been designed in Open Type Format with Unicode standards 6.2" "" "www.neflone.com" "Kaumudi font Licensed under the GNU GENERAL PUBLIC LICENSE Version 3" "" "" "" "" "" "+DSQNLg04DUsNLgAA +DRwNTQ0vDUsNJA0/DXwA +DRcNLg0v" "" "Kaumudi" "Regular" 
+LangName: 1033 "" "" "Regular" "Rahul : Kaumudi : 27-6-2013" "" "Version 1.022 June 27, 2013,  Designed & Developed By Rahul Vijay, Kerala Kaumudi. +-91-9946429992, rahulv@kimo.com" "" "" "Rahul V" "Rahul V; email rahulv@kimo.com" "Kaumudi font is the name of a digital Clear Type font suitable for Tablet, Smart-phone, LED/LCD display.  It has been designed in Open Type Format with Unicode standards 6.2" "" "www.neflone.com" "Kaumudi font Licensed under the GNU GENERAL PUBLIC LICENSE Version 3" "" "" "" "" "" "+DSQNLg04DUsNLgAA +DRwNTQ0vDUsNJA0/DXwA +DRcNLg0v" "" "Kaumudi" "Regular" 
 LangName: 1100 "" "+DRUNVw0uDUENJg0/" "" "" "+DRUNVw0uDUENJg0/" "" "" "" "" "" "" "" "" "" "" "" "+DRUNVw0uDUENJg0/" 
 GaspTable: 3 8 3 16 1 65535 3 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 49 15
+WinInfo: 49 49 15
 BeginChars: 65787 527
 
 StartChar: .notdef
