@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1357092539
-ModificationTime: 1372328267
+ModificationTime: 1372329444
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -7485,7 +7485,7 @@ EndChar
 
 StartChar: ml_ikaar
 Encoding: 3391 3391 183
-Width: 430
+Width: 453
 Flags: W
 LayerCount: 2
 Fore
@@ -7517,7 +7517,7 @@ EndChar
 
 StartChar: ml_iikaar
 Encoding: 3392 3392 184
-Width: 430
+Width: 449
 Flags: W
 LayerCount: 2
 Fore
@@ -15809,6 +15809,7 @@ SplineSet
  1495 -6 1495 -6 1411 -3 c 1,168,169
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ml_y_ta ml_chand ml_ta
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ml_half_ya ml_t_ta
 EndChar
@@ -18379,6 +18380,7 @@ Fore
 Refer: 281 -1 N 1 0 0 1 1380 -16 2
 Refer: 403 -1 N 1 0 0 1 0 0 2
 Validated: 1
+LCarets2: 2 0 0 
 Ligature2: "'rlig' Required Ligatures in Malay+AQEA-lam lookup 13 subtable" ml_rr_rra ml_chand ml_ya
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 9 subtable" ml_rr_rra ml_chand ml_ya
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ml_rr_rra ml_chand ml_ya
