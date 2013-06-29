@@ -1,7 +1,7 @@
 Kaumudi (New Lipi)
 =======
 Malayalam Unicode 6.2 Font 
-version 1.21 February 07-2013
+version 1.22 June 27-2013
 What is new?
 * കൗമുദി​ പ്രഥമ ടി​ടി​സി​ വേർഷൻ,​  റെ​ഗുലർ,​ ബോൾഡ്,​ ഇ​റ്റാലി​ക്സ്,​ ബോൾഡ് ഇ​റ്റാലി​ക്സ്
 * പുതിയ ഓപ്പൺ ടൈപ്പ് ടേബിൾ
